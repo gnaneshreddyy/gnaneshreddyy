@@ -16,7 +16,7 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 
 ## 🌍 Connect With Me  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gnaneshreddyyy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/gnaneshreddyy](https://www.linkedin.com/in/gnanesh-reddy-7829252ba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnanesh-reddy-7829252ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/gnaneshreddyy)
 
 ---
@@ -34,9 +34,6 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-
-## 🎉 Hacktoberfest & Badges
 
 
 ## 📈 GitHub Analytics  
@@ -63,11 +60,7 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 
 - 🔹 Built of **Foodie App**, connecting food donors with those in need via scheduling & logistics in **Figma**  
 - 🔹 Created **EduSummarizer**, a PEGASUS-powered text summarizer for student PDFs for learning effectively 
-- 🔹 Developed **FinWise**, a data-insight dashboard for personal financial analytics  
+- 🔹 Developed **FinWise**, a data-insight dashboard for personal financial analytics that uses AI to help users become more financially cautious
 
-## 🧩 My Philosophy  
-> “Every line of code should have a reason to exist.”  
-
----
 
 <!-- Custom profile built and maintained by Gnanesh Reddy -->
