@@ -16,7 +16,7 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 
 ## 🌍 Connect With Me  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gnaneshreddyyy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gnaneshreddyy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/gnaneshreddyy](https://www.linkedin.com/in/gnanesh-reddy-7829252ba/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/gnaneshreddyy)
 
 ---
