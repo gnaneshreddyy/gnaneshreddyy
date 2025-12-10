@@ -61,6 +61,7 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 - 🔹 Built of **Foodie App**, connecting food donors with those in need via scheduling & logistics in **Figma**  
 - 🔹 Created **EduSummarizer**, a PEGASUS-powered text summarizer for student PDFs for learning effectively 
 - 🔹 Developed **FinWise**, a data-insight dashboard for personal financial analytics that uses AI to help users become more financially cautious
+- 🔹 Working on  **vediocursor**, building a platform that turns user prompts into fully generated explainer videos using multimodal AI. 
 
 
 <!-- Custom profile built and maintained by Gnanesh Reddy -->
