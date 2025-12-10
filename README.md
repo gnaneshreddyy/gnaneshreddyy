@@ -7,10 +7,10 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 ---
 
 ## 🧠 What I’m Into  
-- 🧩 **Frontend:** React, Next.js, Tailwind  
+- 🧩 **Frontend:** React, Next.js, Tailwind ,GSAP
 - ⚙️ **Backend:** Node.js, Express, MongoDB   
 - 💻 **Languages:** C++, Python, JavaScript,Java,C
-- 🧰 **Tools:** Git, GitHub , Vite, VS Code ,PostMan  
+- 🧰 **Tools:** Git, GitHub , Vite, VS Code ,PostMan  ,Shadcm
 
 ---
 
