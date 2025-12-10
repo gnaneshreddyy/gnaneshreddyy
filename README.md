@@ -40,12 +40,13 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gnaneshreddyy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnaneshreddyy&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://streak-stats.demolab.com?user=gnaneshreddyy&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaneshreddyy&theme=tokyonight&hide_border=false&layout=compact" height="165" />
 </p>
+
 
 ---
 
