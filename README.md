@@ -8,9 +8,9 @@ I love bringing logic to life with elegant UIs and scalable backend systems.
 
 ## 🧠 What I’m Into  
 - 🧩 **Frontend:** React, Next.js, Tailwind ,GSAP
-- ⚙️ **Backend:** Node.js, Express, MongoDB   
-- 💻 **Languages:** C++, Python, JavaScript,Java,C
-- 🧰 **Tools:** Git, GitHub , Vite, VS Code ,PostMan  ,Shadcn
+- ⚙️ **Backend:** Node.js, Express, MongoDB , Prisma ,NeonDB , FireBase , FireStore ,Supabase , Prisma
+- 💻 **Languages:** C++, c , Python , JavaScript , Java
+- 🧰 **Tools:** Git, GitHub , Vite, VS Code ,PostMan  ,Shadcn ,    
 
 ---
 
